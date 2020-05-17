@@ -1,3 +1,14 @@
 body {
-    background-color: burlywood
-};
+    background-color: burlywood;;
+    text-align: center;
+}
+
+#colorBtn {
+    height: 50px;
+    width: 125px;
+    color: black;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;margin: auto;
+}
